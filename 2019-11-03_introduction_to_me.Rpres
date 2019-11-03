@@ -1,0 +1,112 @@
+A Little Bit About Me
+========================================================
+author: Jamison R. Crawford, MPA
+date: November 4, 2019
+autosize: true
+transition: rotate
+transition-speed: slow
+
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://www.maxwell.syr.edu/uploadedImages/deans/SUMaxLogo.Stack.ODG.png")
+
+```
+
+
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/E9abt67.jpg")
+
+```
+
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/UWwT2Pm.jpg")
+
+```
+
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/JjnAud1.jpg")
+
+```
+
+Racial Equity Impact Statement
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/91mzHOy.jpg")
+
+```
+
+Racial Equity Impact Statement
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/7RrAVu5.jpg")
+
+```
+
+<center>
+
+View [Publication](https://issuu.com/lscny/docs/reisfinal_3-8-19_compressed)
+
+</center>
+
+Syracuse Poverty Index
+========================================================
+
+```{r echo=F, fig.align="center", out.width="100%"}
+
+knitr::include_graphics("https://i.imgur.com/lPQONfr.jpg")
+
+```
+
+<center>
+
+View [Publication](https://issuu.com/cnycf/docs/poverty_index_paper_2019?fr=sNWE4NTI5NTUwNw)
+
+</center>
+
+Syracuse Poverty Index Whitepaper
+========================================================
+
+<center>
+
+<iframe style="position:absolute;top:5;left:0;width:100%;height:80%;" src="https://issuu.com/cnycf/docs/poverty_index_paper_2019?fr=sNWE4NTI5NTUwNw" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+
+
+CNY Vitals Pro
+========================================================
+
+<center>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/296890119?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Visit [CNY Vitals Pro](https://pro.cnyvitals.org/)
+
+</center>
+
+
+Foundations of Data Science I
+========================================================
+
+<center>
+
+<iframe style="position:absolute;top:5;left:0;width:100%;height:80%;" src="http://ds4ps.org/dp4ss-textbook/" frameborder="0"></iframe>
+
+</center>
+
